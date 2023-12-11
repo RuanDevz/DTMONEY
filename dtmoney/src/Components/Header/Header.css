@@ -1,0 +1,28 @@
+header{
+    background-color: #121214;
+}
+.content{
+    padding: 1rem 1rem 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Marca{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    gap: 10px;
+    color: white;
+}
+button{
+    background-color: #00875f;
+    color: white;
+    border: none;
+    padding: 9px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #027754;
+}
